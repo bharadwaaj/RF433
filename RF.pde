@@ -10,7 +10,7 @@
 * Date: 04/01/2013
 *
 * Note: Any bug reports or issues feel free to contact the author. 
-*       Also note that the Data pin should be connected to ground.
+*       Also note that the Data pin should be connected to Pin2.
 ******************************************************************************/
 
 
